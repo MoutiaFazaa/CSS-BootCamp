@@ -1,0 +1,28 @@
+td{
+    background-color: black;
+    height: 300px;
+    width: 150px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.art{
+    margin: auto;
+}
+#one{
+    background-color: #588b8b;
+}
+#two{
+    background-color: #ffffff;
+}
+#three{
+    background-color: #ffd5c2;
+}
+#four{
+    background-color: #f28f3b;
+}
+#five{
+    background-color: #c8553d;
+}
