@@ -1,0 +1,16 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    border: 1px solid black;
+}
+div p{
+    background-color: yellow;
+}
+
+h2{
+    color: purple;
+}
+ input{
+     border: 2px solid rgb(144,0,0);
+ }
